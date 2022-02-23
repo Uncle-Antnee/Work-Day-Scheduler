@@ -4,7 +4,7 @@ Week 5 challenge
 
 ## Description
 
-Creation of the first of many versions of my portfolio which includes samples of my recent work. This is a work in progress that will be continually updated as time goes on.
+Made a simple workday calender that uses user side storage.
 
 ## links
 
@@ -13,7 +13,7 @@ https://uncle-antnee.github.io/Work-Day-Scheduler/
 
 ## Screenshot
 
-<img src=./assets/Images/screenshot.jpg />
+<img src=./assets/image/screenshot.png/>
 
 ## Website made using
 HTML, CSS, JS
